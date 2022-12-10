@@ -29,7 +29,7 @@ public class CharacterController : MonoBehaviour
     private bool canMove = true;
     private bool canDash = true;
     private bool isDashing = false;
-    float cooldownDash = 3;
+    //float cooldownDash = 3;
 
     //TWIST
     bool isFacingRight;
